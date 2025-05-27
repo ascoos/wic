@@ -51,9 +51,9 @@ Use the TWICHandler to create .wic files:
     $wic->createWIC($images, 'images.wic');
 ```
 
-For Browsers (Using BRODEV or JavaScript Polyfill)
+For Browsers (Using DevBro or JavaScript Polyfill)
 
-BRODEV Browser: WIC is natively supported in BRODEV, a custom browser built for Ascoos Web Extended Studio. (Coming soon!)
+DevBro Browser: WIC is natively supported in DevBro, a custom browser built for Ascoos Web Extended Studio. (Coming soon!)
 
 JavaScript Polyfill: For other browsers, use the WIC JavaScript library:
 
